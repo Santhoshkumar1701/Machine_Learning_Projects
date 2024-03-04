@@ -1,12 +1,12 @@
 # Machine_Learning_Projects
 
-[1. House Price Predcition](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/edit/main/README.md#house-price-prediction-ml)
+[1. House Price Predcition](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/blob/main/Machine_learning_solution_houseprice_dataset.ipynb)
 
-[2. Feed Grains Analysis](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/edit/main/README.md#feed-grains-analysis)
+[2. Feed Grains Analysis](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/blob/main/MachineLearning_solution_FeedGrains_Dataset.ipynb)
 
-[3. Fuel Economy Analysis](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/edit/main/README.md#3-fuel-economy-analysis)
+[3. Fuel Economy Analysis](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/blob/main/MachineLearning_solution_for_Fuel_Economy_DataSet.ipynb)
 
-[4. Titanic Survival Prediction](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/edit/main/README.md#4-titanic-survival-prediction)
+[4. Titanic Survival Prediction](https://github.com/Santhoshkumar1701/Machine_Learning_Projects/blob/main/MachineLearning_Solution_Titanic_Dataset.ipynb)
 
 ## 1. House Price Prediction ML
 ### Overview:
